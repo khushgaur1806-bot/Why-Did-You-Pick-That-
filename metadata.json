@@ -1,0 +1,6 @@
+{
+  "name": "Moose Wala | Luxury Urban Streetwear",
+  "description": "High-converting, responsive luxury urban streetwear e-commerce web application featuring Sidhu Moose Wala signature collections, interactive Product Detail Page (PDP), dynamic size selection, and bottom floating add-to-cart bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
